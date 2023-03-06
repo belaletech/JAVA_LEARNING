@@ -29,6 +29,8 @@ for(int i=0;i<arr.length;i++)
 	
 }
 }
+
+}
 return result;
 }
 public static void main(String[] args) {
