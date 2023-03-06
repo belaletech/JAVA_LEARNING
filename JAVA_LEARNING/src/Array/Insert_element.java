@@ -28,9 +28,5 @@ public class Insert_element {
 				newarr[i]=value;
 		}
 		System.out.println("After insert :"+Arrays.toString(newarr));
-		
-		
-
 	}
-
 }
